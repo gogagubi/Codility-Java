@@ -5,8 +5,8 @@ public class Lesson_16_TieRopes {
     public static void main(String[] args) {
         if (true) {
             Lesson_16_TieRopes s = new Lesson_16_TieRopes();
-            int K = 5;
-            int[] A = {1, 3, 7, 9, 9};
+            int K = 4;
+            int[] A = {1, 2, 3, 4, 1, 1, 3};
 
             System.out.println("Result " + s.solution(K, A));
         }
